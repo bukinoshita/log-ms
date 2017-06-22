@@ -1,6 +1,6 @@
 {
   "name": "log-ms",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Elegant instance execution time in ms",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/log-ms.git",
