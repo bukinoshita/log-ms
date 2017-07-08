@@ -1,12 +1,18 @@
 {
   "name": "log-ms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Elegant instance execution time in ms",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/log-ms.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["log", "ms", "timer", "exec", "time"],
+  "keywords": [
+    "log",
+    "ms",
+    "timer",
+    "exec",
+    "time"
+  ],
   "scripts": {
     "test": "xo --quiet"
   },
