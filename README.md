@@ -2,11 +2,13 @@
 
 > Elegant instance execution time in ms
 
+
 ## Install
 
 ```
 $ npm install --save log-ms
 ```
+
 
 ## Usage
 ```js
@@ -19,9 +21,11 @@ setTimeout(() => console.log(`cool! ${timer.end()}`), 5000)
 // => cool [5s]
 ```
 
+
 ## Demo
 
 ![](https://github.com/bukinoshita/log-ms/blob/master/demo.gif)
+
 
 ## API
 
@@ -36,6 +40,7 @@ Start the `logms`. Returns the instance.
 #### end()
 
 Stop the `logms`. Returns the instance.
+
 
 ## License
 
